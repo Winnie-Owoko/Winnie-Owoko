@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Winnie-Owoko
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in software development and cyber security
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...aluochowoko@gmail.com
 
